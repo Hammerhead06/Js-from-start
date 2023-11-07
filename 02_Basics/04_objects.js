@@ -8,7 +8,7 @@ tinderUser.isLoggedIN=false
 // object nesting
 const regularUser={
     emali:"some@google.com",
-    fullname:{
+    fullname:{ 
         firstname:"roshan",
         lastname:"kumar"
     }
