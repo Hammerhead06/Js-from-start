@@ -8,3 +8,4 @@ prefer not to use var because it has problems in scope - such as for loop
 */
 
 console.table([x,y,z])
+console.log("roshan")
