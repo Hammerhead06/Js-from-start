@@ -3,7 +3,7 @@
 
 //object literals
 
-const mySym=Symbol("hero")
+const mySym=Symbol("hero") 
 const JsUser={
     name:"Roshan",
     [mySym]:"hero",
